@@ -4,6 +4,13 @@ Desenvolvedor em formação focado em **Desenvolvimento de Software (C# / C++)**
 
 ---
 
+🌐 Idiomas
+
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Compreensão avançada / Conversação em nível intermediário (Estudado na Fluency Academy)
+
+---
+
 ###  Tecnologias & Ferramentas
 
 **Linguagens de Programação:**
